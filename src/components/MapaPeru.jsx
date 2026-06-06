@@ -123,7 +123,7 @@ export default function MapaPeru() {
       });
     };
 
-    fetch("/peru_real.geojson")
+    fetch(`${process.env.PUBLIC_URL}/peru_real.geojson`)
       .then((res) => res.json())
       .then((data) => {
         geoJsonLayer.current = L.geoJSON(data, {
