@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"features": [
+{"type":"Feature","properties":{"name":"Amazonas"},"geometry":{"type":"Polygon","coordinates":[[[-78.5,-4.0],[-77.0,-4.0],[-77.0,-6.5],[-78.5,-6.5],[-78.5,-4.0]]]}},
+{"type":"Feature","properties":{"name":"Áncash"},"geometry":{"type":"Polygon","coordinates":[[[-78.5,-8.0],[-77.0,-8.0],[-77.0,-10.5],[-78.5,-10.5],[-78.5,-8.0]]]}},
+{"type":"Feature","properties":{"name":"Apurímac"},"geometry":{"type":"Polygon","coordinates":[[[-74.5,-13.0],[-72.5,-13.0],[-72.5,-14.8],[-74.5,-14.8],[-74.5,-13.0]]]}},
+{"type":"Feature","properties":{"name":"Arequipa"},"geometry":{"type":"Polygon","coordinates":[[[-73.5,-15.0],[-71.5,-15.0],[-71.5,-17.5],[-73.5,-17.5],[-73.5,-15.0]]]}},
+{"type":"Feature","properties":{"name":"Ayacucho"},"geometry":{"type":"Polygon","coordinates":[[[-75.5,-12.0],[-73.5,-12.0],[-73.5,-14.0],[-75.5,-14.0],[-75.5,-12.0]]]}},
+{"type":"Feature","properties":{"name":"Cajamarca"},"geometry":{"type":"Polygon","coordinates":[[[-79.5,-5.0],[-77.5,-5.0],[-77.5,-7.5],[-79.5,-7.5],[-79.5,-5.0]]]}},
+{"type":"Feature","properties":{"name":"Callao"},"geometry":{"type":"Polygon","coordinates":[[[-77.2,-12.0],[-77.0,-12.0],[-77.0,-12.2],[-77.2,-12.2],[-77.2,-12.0]]]}},
+{"type":"Feature","properties":{"name":"Cusco"},"geometry":{"type":"Polygon","coordinates":[[[-73.5,-12.0],[-71.0,-12.0],[-71.0,-14.5],[-73.5,-14.5],[-73.5,-12.0]]]}},
+{"type":"Feature","properties":{"name":"Huancavelica"},"geometry":{"type":"Polygon","coordinates":[[[-75.5,-12.5],[-74.0,-12.5],[-74.0,-14.5],[-75.5,-14.5],[-75.5,-12.5]]]}},
+{"type":"Feature","properties":{"name":"Huánuco"},"geometry":{"type":"Polygon","coordinates":[[[-76.5,-8.0],[-74.5,-8.0],[-74.5,-10.5],[-76.5,-10.5],[-76.5,-8.0]]]}},
+{"type":"Feature","properties":{"name":"Ica"},"geometry":{"type":"Polygon","coordinates":[[[-76.5,-13.0],[-74.5,-13.0],[-74.5,-15.5],[-76.5,-15.5],[-76.5,-13.0]]]}},
+{"type":"Feature","properties":{"name":"Junín"},"geometry":{"type":"Polygon","coordinates":[[[-76.5,-10.0],[-74.5,-10.0],[-74.5,-12.5],[-76.5,-12.5],[-76.5,-10.0]]]}},
+{"type":"Feature","properties":{"name":"La Libertad"},"geometry":{"type":"Polygon","coordinates":[[[-79.5,-7.0],[-77.5,-7.0],[-77.5,-9.5],[-79.5,-9.5],[-79.5,-7.0]]]}},
+{"type":"Feature","properties":{"name":"Lambayeque"},"geometry":{"type":"Polygon","coordinates":[[[-80.5,-6.0],[-78.5,-6.0],[-78.5,-7.5],[-80.5,-7.5],[-80.5,-6.0]]]}},
+{"type":"Feature","properties":{"name":"Lima"},"geometry":{"type":"Polygon","coordinates":[[[-77.5,-10.5],[-75.5,-10.5],[-75.5,-13.5],[-77.5,-13.5],[-77.5,-10.5]]]}},
+{"type":"Feature","properties":{"name":"Loreto"},"geometry":{"type":"Polygon","coordinates":[[[-75.5,-3.0],[-70.0,-3.0],[-70.0,-7.5],[-75.5,-7.5],[-75.5,-3.0]]]}},
+{"type":"Feature","properties":{"name":"Madre de Dios"},"geometry":{"type":"Polygon","coordinates":[[[-72.5,-10.0],[-69.5,-10.0],[-69.5,-13.0],[-72.5,-13.0],[-72.5,-10.0]]]}},
+{"type":"Feature","properties":{"name":"Moquegua"},"geometry":{"type":"Polygon","coordinates":[[[-71.5,-16.5],[-70.0,-16.5],[-70.0,-18.0],[-71.5,-18.0],[-71.5,-16.5]]]}},
+{"type":"Feature","properties":{"name":"Pasco"},"geometry":{"type":"Polygon","coordinates":[[[-76.5,-9.0],[-74.5,-9.0],[-74.5,-10.5],[-76.5,-10.5],[-76.5,-9.0]]]}},
+{"type":"Feature","properties":{"name":"Piura"},"geometry":{"type":"Polygon","coordinates":[[[-81.5,-4.0],[-79.0,-4.0],[-79.0,-6.5],[-81.5,-6.5],[-81.5,-4.0]]]}},
+{"type":"Feature","properties":{"name":"Puno"},"geometry":{"type":"Polygon","coordinates":[[[-71.5,-14.0],[-69.0,-14.0],[-69.0,-17.5],[-71.5,-17.5],[-71.5,-14.0]]]}},
+{"type":"Feature","properties":{"name":"San Martín"},"geometry":{"type":"Polygon","coordinates":[[[-77.0,-5.5],[-74.5,-5.5],[-74.5,-8.0],[-77.0,-8.0],[-77.0,-5.5]]]}},
+{"type":"Feature","properties":{"name":"Tacna"},"geometry":{"type":"Polygon","coordinates":[[[-71.5,-17.5],[-70.0,-17.5],[-70.0,-19.0],[-71.5,-19.0],[-71.5,-17.5]]]}},
+{"type":"Feature","properties":{"name":"Tumbes"},"geometry":{"type":"Polygon","coordinates":[[[-81.5,-3.0],[-80.0,-3.0],[-80.0,-4.5],[-81.5,-4.5],[-81.5,-3.0]]]}},
+{"type":"Feature","properties":{"name":"Ucayali"},"geometry":{"type":"Polygon","coordinates":[[[-75.5,-7.5],[-72.5,-7.5],[-72.5,-10.5],[-75.5,-10.5],[-75.5,-7.5]]]}}
+]
+}

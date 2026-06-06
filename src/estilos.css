@@ -1,0 +1,24 @@
+body {
+  background-image: url('https://thumbs-us-east-1.myalbum.io/photo/1k0/be0dcd8b-0563-4fc2-b302-7e02cd574178.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.btn-outline-modern {
+  border: 2px solid #dbdee1;
+  color: #edeef0;
+  border-radius: 50px;
+  padding: 10px 25px;
+  transition: 0.3s;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+}
+
+.btn-outline-modern:hover {
+  background: #db1fac;
+  color: rgb(247, 245, 245);
+}
+
+.leaflet-interactive:focus {
+  outline: none;
+}
