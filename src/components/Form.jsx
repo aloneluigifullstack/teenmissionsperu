@@ -41,23 +41,23 @@ export const Form = () => (
           </p>
 
           <div className="d-flex gap-3 mt-4">
-            <a href="#" className="social-link text-white">
+            <a href="https://www.facebook.com/TMIP1/" className="social-link text-white">
               <FaFacebook />
             </a>
 
-            <a href="#" className="social-link text-white">
+            <a href="https://www.instagram.com/teenmissionsperu/" className="social-link text-white">
               <FaInstagram />
             </a>
 
-            <a href="#" className="social-link text-white">
+            <a href="https://www.youtube.com/@teenmissionsperu" className="social-link text-white">
               <FaYoutube />
             </a>
 
-            <a href="#" className="social-link text-white">
+            <a href="https://www.tiktok.com/@teenmissionsperu" className="social-link text-white">
               <FaTiktok />
             </a>
 
-            <a href="#" className="social-link text-white">
+            <a href="https://wa.me/51987706440" className="social-link text-white">
               <FaWhatsapp />
             </a>
           </div>

@@ -217,7 +217,7 @@ export default function MapaPeru() {
                     fontSize: "0.9rem",
                   }}
                 >
-                  Proyecto Misionero
+                  Proyectos Misioneros
                 </span>
 
                 <h3

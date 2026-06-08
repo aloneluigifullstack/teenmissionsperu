@@ -19,15 +19,12 @@ export const Card = ({
 
         <div className="feature-content">
 
-          <span className="feature-tag">
-            Teen Missions Perú
-          </span>
-
           <h3>{title}</h3>
 
           <p>{desc}</p>
 
           {buttonText && (
+            <div className="text-center">
             <button
               className="btn-modern-purple"
               data-bs-toggle="modal"
@@ -35,6 +32,7 @@ export const Card = ({
             >
               {buttonText}
             </button>
+            </div>
           )}
 
         </div>

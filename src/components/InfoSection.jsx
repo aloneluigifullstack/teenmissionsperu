@@ -92,12 +92,12 @@ export const InfoSection = () => {
               <span
                 className="badge px-3 py-2 mb-3"
                 style={{
-                  background: "rgba(255,255,255,0.15)",
+                  background: "rgba(12, 1, 8, 0.15)",
                   fontSize: "14px",
                   borderRadius: "30px",
                 }}
               >
-                Teen Missions
+                News
               </span>
 
               <h2

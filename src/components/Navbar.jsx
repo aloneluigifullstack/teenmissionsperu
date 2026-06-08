@@ -18,7 +18,6 @@ export const Navbar = () => (
     }}
   >
     <div className="container">
-
       {/* LOGO */}
 
       <a className="navbar-brand">
@@ -36,15 +35,10 @@ export const Navbar = () => (
         <span className="navbar-toggler-icon"></span>
       </button>
 
-      <div
-        className="collapse navbar-collapse"
-        id="menu"
-      >
-
+      <div className="collapse navbar-collapse" id="menu">
         {/* MENU */}
 
         <ul className="navbar-nav mx-auto">
-
           <li className="nav-item">
             <a className="nav-link fw-semibold" href="#inicio">
               Inicio
@@ -80,15 +74,13 @@ export const Navbar = () => (
               Contacto
             </a>
           </li>
-
         </ul>
 
         {/* REDES */}
 
         <div className="social-icons d-flex align-items-center gap-3">
-
           <a
-            href="https://facebook.com"
+            href="https://www.facebook.com/TMIP1/"
             target="_blank"
             rel="noreferrer"
             className="social-link"
@@ -97,7 +89,7 @@ export const Navbar = () => (
           </a>
 
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/teenmissionsperu/"
             target="_blank"
             rel="noreferrer"
             className="social-link"
@@ -106,7 +98,7 @@ export const Navbar = () => (
           </a>
 
           <a
-            href="https://youtube.com"
+            href="https://www.youtube.com/@teenmissionsperu"
             target="_blank"
             rel="noreferrer"
             className="social-link"
@@ -115,7 +107,7 @@ export const Navbar = () => (
           </a>
 
           <a
-            href="https://tiktok.com"
+            href="https://www.tiktok.com/@teenmissionsperu"
             target="_blank"
             rel="noreferrer"
             className="social-link"
@@ -124,18 +116,15 @@ export const Navbar = () => (
           </a>
 
           <a
-            href="https://wa.me/51999999999"
+            href="https://wa.me/51987706440"
             target="_blank"
             rel="noreferrer"
             className="social-link"
           >
             <FaWhatsapp />
           </a>
-
         </div>
-
       </div>
-
     </div>
   </nav>
 );
