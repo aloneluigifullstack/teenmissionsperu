@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/teenmissionsperu/static/css/main.1d0b5cd4.css",
-    "main.js": "/teenmissionsperu/static/js/main.3d67447b.js",
+    "main.js": "/teenmissionsperu/static/js/main.4bd6ec1c.js",
     "static/media/logo_TMP.png": "/teenmissionsperu/static/media/logo_TMP.f2e7d640970a96660440.png",
     "index.html": "/teenmissionsperu/index.html",
     "main.1d0b5cd4.css.map": "/teenmissionsperu/static/css/main.1d0b5cd4.css.map",
-    "main.3d67447b.js.map": "/teenmissionsperu/static/js/main.3d67447b.js.map"
+    "main.4bd6ec1c.js.map": "/teenmissionsperu/static/js/main.4bd6ec1c.js.map"
   },
   "entrypoints": [
     "static/css/main.1d0b5cd4.css",
-    "static/js/main.3d67447b.js"
+    "static/js/main.4bd6ec1c.js"
   ]
 }
