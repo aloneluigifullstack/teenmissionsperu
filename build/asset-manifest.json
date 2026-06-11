@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/teenmissionsperu/static/css/main.f8aa621c.css",
-    "main.js": "/teenmissionsperu/static/js/main.bb9b615a.js",
+    "main.js": "/teenmissionsperu/static/js/main.2a065f69.js",
     "static/media/logo_TMP.png": "/teenmissionsperu/static/media/logo_TMP.f2e7d640970a96660440.png",
     "static/media/qr_yape.png": "/teenmissionsperu/static/media/qr_yape.4ccff08407f932787af3.png",
     "static/media/qr_plin.png": "/teenmissionsperu/static/media/qr_plin.0f78f5a0305af9431330.png",
     "index.html": "/teenmissionsperu/index.html",
     "main.f8aa621c.css.map": "/teenmissionsperu/static/css/main.f8aa621c.css.map",
-    "main.bb9b615a.js.map": "/teenmissionsperu/static/js/main.bb9b615a.js.map"
+    "main.2a065f69.js.map": "/teenmissionsperu/static/js/main.2a065f69.js.map"
   },
   "entrypoints": [
     "static/css/main.f8aa621c.css",
-    "static/js/main.bb9b615a.js"
+    "static/js/main.2a065f69.js"
   ]
 }
